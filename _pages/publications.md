@@ -1,12 +1,8 @@
 ---
 layout: archive
 title: "Publications"
-# permalink: /publications/
+permalink: /publications/
 author_profile: true
-permalink: /
-# redirect_from: 
-#   - /publications/
-#   - /publications.html
 ---
 
 {% if author.googlescholar %}
@@ -18,5 +14,3 @@ permalink: /
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-A Survey on Voice Assistant Security: Attacks and Countermeasures
