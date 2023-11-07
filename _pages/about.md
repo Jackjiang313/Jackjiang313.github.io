@@ -18,9 +18,9 @@ I work towards the next generation of IoT devices and systems that have AI-empow
 
 News
 ======
-[Sep 15, 2023] My co-first authored EM Eye has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/) without revisions. We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!
-[June 22, 2023] My paper GhostType paper has been conditionally accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!
-[June 22, 2023] My paper GlitchHiker has been accepted at [USENIX’23](https://www.usenix.org/conference/usenixsecurity23). We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!
+* [Sep 15, 2023] My co-first authored EM Eye has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/) without revisions. We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!
+* [June 22, 2023] My paper GhostType paper has been conditionally accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!
+* [June 22, 2023] My paper GlitchHiker has been accepted at [USENIX’23](https://www.usenix.org/conference/usenixsecurity23). We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!
 
 Getting started
 ======
