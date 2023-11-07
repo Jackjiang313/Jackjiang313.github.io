@@ -21,7 +21,7 @@ In <em><strong>NDSS’24</strong>: The Network and Distributed System Security S
 In <em><strong>NDSS’24</strong>: The Network and Distributed System Security Symposium, 2024</em> (To appear)
 
 
-[GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI](https://dl.acm.org/doi/full/10.1145/3527153)<br/>
+[GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI](https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-qinhong)<br/>
 <strong>Qinhong Jiang</strong>, Xiaoyu Ji, Chen Yan, Zhixin Xie, Haina Lou, and Wenyuan Xu.<br/>
 In <em><strong>SEC'23</strong>: USENIX Security Symposium, 2023</em> ([PDF](https://www.usenix.org/system/files/usenixsecurity23-jiang-qinhong.pdf))
 
