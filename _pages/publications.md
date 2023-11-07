@@ -4,9 +4,9 @@ title: "Publications"
 # permalink: /publications/
 author_profile: true
 permalink: /
-redirect_from: 
-  - /publications/
-  - /publications.html
+# redirect_from: 
+#   - /publications/
+#   - /publications.html
 ---
 
 {% if author.googlescholar %}
