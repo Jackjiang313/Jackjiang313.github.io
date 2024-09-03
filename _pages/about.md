@@ -24,6 +24,6 @@ News
 * [Jul 15, 2022] My paper <strong>GlitchHiker</strong> has been accepted at [USENIX’23](https://www.usenix.org/conference/usenixsecurity23). We uncover the vulnerabilities of image signal transmission and demonstrate how attackers may actively induce controlled glitch images of a camera at various positions, widths, and numbers using intentional electromagnetic interference.
 * [Mar 14, 2022] Our survey paper on voice assistant security has been accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur).
 
-<div style="height: 250px;width: 250px;margin-left: 40px;">
+<div style="height: 256px;width: 256px;margin-left: 40px;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-Qdos_sq78THZq11CU2oACC4KenspK2tlPxjOgfncoA"></script>
 </div>
