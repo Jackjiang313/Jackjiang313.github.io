@@ -23,3 +23,5 @@ News
 * [Jun 22, 2023] My paper <strong>GhostType</strong> paper has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We uncover a new class of vulnerabilities that can be exploited to induce phantom keystrokes (especially the keys that do not exist on the physical keyboard) into keyboards’ analog circuits in a contactless way using intentional electromagnetic interference. Demos will be put up soon!
 * [Jul 15, 2022] My paper <strong>GlitchHiker</strong> has been accepted at [USENIX’23](https://www.usenix.org/conference/usenixsecurity23). We uncover the vulnerabilities of image signal transmission and demonstrate how attackers may actively induce controlled glitch images of a camera at various positions, widths, and numbers using intentional electromagnetic interference.
 * [Mar 14, 2022] Our survey paper on voice assistant security has been accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur).
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-Qdos_sq78THZq11CU2oACC4KenspK2tlPxjOgfncoA"></script>
