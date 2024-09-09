@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qinhong Jiang"
-  avatar           : "profile.jpeg"
+  avatar           : "qinhong_jiang.jpg"
   bio              : "PhD candidate at USSLAB, Zhejiang University"
-  location         : "Hangzhou, China"
+  location         : "Hong Kong SAR, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=JX0i6a8AAAAJ"
   email            : "qhjiang@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
