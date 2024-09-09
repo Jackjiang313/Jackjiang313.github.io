@@ -19,11 +19,11 @@ The \* sign stands for co-first authors (equal contribution).
 
 [PhantomLiDAR: Cross-modality Signal Injection  Attacks against LiDAR]()<br/>
 Zizhi Jin, <strong>Qinhong Jiang<strong>, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
-In <em><strong>NDSS’25</strong>: The Network and Distributed System Security Symposium, 2025</em> <br/>
+In <em><strong>NDSS’25</strong>: The Network and Distributed System Security Symposium, 2025</em> ([Demo](https://sites.google.com/view/phantomlidar)) <br/>
 
 [Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection](https://www.arxiv.org/pdf/2407.16327)<br/>
 Youqian Zhang, Chunxi Yang, Eugene Y Fu, <strong>Qinhong Jiang<strong>, Chen Yan, Sze-Yiu Chau, Grace Ngai, Hong-Va Leong, Xiapu Luo, Wenyuan Xu)<br/>
-In <em><strong>ICME'24</strong>: IEEE Conference on Multimedia Expo, 2024</em> ([Demo](https://sites.google.com/view/phantomlidar)) <br/>
+In <em><strong>ICME'24</strong>: IEEE Conference on Multimedia Expo, 2024</em>  <br/>
 
 [EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras](https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/)<br/>
 Yan Long\*, <strong>Qinhong Jiang\*</strong>, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu.<br/>
