@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- Hi! I am Qinhong Jiang, a PhD candidate and security researcher at Zhejiang University. I work at the [Ubiquitous System Security Laboratory (USSLAB)](http://www.usslab.org/), where I'm honored to be advised by [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en) and [Prof. Chen Yan](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra). -->
 
-# Qinhong Jiang
+# Qinhong Jiang (蒋沁宏)
 
 A postdoctoral researcher in cyber-physical system (CPS) security and privacy.
 
