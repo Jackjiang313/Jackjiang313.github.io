@@ -28,7 +28,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 News
 ======
 <!-- * [Sep 15, 2025] Our paper <strong>Pha</strong> has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may eavesdrop on cameras and recover high-quality images in real time by analyzing camera's side-channel EM leakage. Demos will be put up soon! -->
-* [Aug 31, 2024] Our paper <strong>PhantomLiDAR</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We demonstrate how cross-modality signal injection attacks, i.e., IEMI, can manipulate LiDAR output. (PDF, [Demo](https://sites.google.com/view/phantomlidar))
+* [Aug 31, 2024] Our paper <strong>PhantomLiDAR</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We demonstrate how cross-modality signal injection attacks, i.e., IEMI, can manipulate LiDAR output. ([PDF](https://arxiv.org/pdf/2409.17907), [Demo](https://sites.google.com/view/phantomlidar))
 * [Aug 5, 2024] I am joining the [IMCL lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in The Hong Kong Polytechnic University as a postdoctoral fellow, directed by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
 * [June 1, 2024] Successfully defended my Ph.D. thesis! 
 * [Mar 13, 2024] One paper has been accepted at IEEE Conference on Multimedia Expo 2024 (ICME'24).
