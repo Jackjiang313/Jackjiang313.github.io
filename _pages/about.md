@@ -28,7 +28,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 News
 ======
 <!-- * [Sep 15, 2025] Our paper <strong>Pha</strong> has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may eavesdrop on cameras and recover high-quality images in real time by analyzing camera's side-channel EM leakage. Demos will be put up soon! -->
-* [Nov 22, 2024] Our paper <strong>GhostShot</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We conducted a schematic analysis of the causality of the IEMI effect on the shapes, brightness, and colors of the injected images, and achieve effective control of the injected pattern through amplitude-phase modulation. ([PDF](), [Demo]())
+* [Nov 22, 2024] Our paper <strong>GhostShot</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We conducted a schematic analysis of the causality of the IEMI effect on the shapes, brightness, and colors of the injected images, and achieve fine-grained control of the injected pattern. ([PDF](), [Demo]())
 * [Aug 31, 2024] Our paper <strong>PhantomLiDAR</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We demonstrate how cross-modality signal injection attacks, i.e., IEMI, can manipulate LiDAR output. ([PDF](https://arxiv.org/pdf/2409.17907), [Demo](https://sites.google.com/view/phantomlidar))
 * [Aug 5, 2024] I am joining the [IMCL lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in The Hong Kong Polytechnic University as a postdoctoral fellow, directed by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
 * [June 1, 2024] Successfully defended my Ph.D. thesis! 
