@@ -17,6 +17,10 @@ author_profile: true
 
 The \* sign stands for co-first authors (equal contribution).
 
+[GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference]()<br/>
+Yanze Ren, <strong>Qinhong Jiang</strong>, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
+In <em><strong>NDSS’25</strong>: The Network and Distributed System Security Symposium, 2025</em> (To appear) <br/>
+
 [PhantomLiDAR: Cross-modality Signal Injection  Attacks against LiDAR]()<br/>
 Zizhi Jin, <strong>Qinhong Jiang</strong>, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
 In <em><strong>NDSS’25</strong>: The Network and Distributed System Security Symposium, 2025</em> ([PDF](https://arxiv.org/pdf/2409.17907), [Demo](https://sites.google.com/view/phantomlidar)) <br/>
