@@ -20,6 +20,8 @@ Prior that, I received my PhD degree from the [Zhejing University](https://www.z
 My research aims to protect the security and privacy of cyber-physical systems and spans the intersections of embedded systems, sensing, and mobile computing. Most of my research focuses on the security and privacy threats of cyber-physical systems caused by vulnerabilities against electromagnetic waves. I am also interested in side-channel attacks, robot system security, machine learning security, large language model security, and anything in security and privacy research that involves signals and physics.
 
 I am open to academic collaborations and welcome discussions concerning potential research partnerships.
+
+Email: [qinhong.jiang@polyu.edu.hk](qinhong.jiang@polyu.edu.hk) or [qhjiang@zju.edu.cn](qhjiang@zju.edu.cn).
 <!-- I’m also interested in side channel, covert channel, machine learning security, embedded system security, and anything in security research that involves signals and physics. I'm open to collaborate. -->
 <!-- The systems that I have analyzed and/or enhanced include sensors, voice assistants, cyber-physical systems, human-computer interaction devices, surveillance systems, and ubiquitous IoT devices.  -->
 
