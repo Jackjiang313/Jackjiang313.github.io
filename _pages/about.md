@@ -30,8 +30,8 @@ Email: [qinhong.jiang@polyu.edu.hk](qinhong.jiang@polyu.edu.hk) or [qhjiang@zju.
 News
 ======
 <!-- * [Sep 15, 2025] Our paper <strong>Pha</strong> has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may eavesdrop on cameras and recover high-quality images in real time by analyzing camera's side-channel EM leakage. Demos will be put up soon! -->
-* [USENIX'26] I will serve on the Program Committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26).
-* [RAID'25] I will serve on the Program Committee member of [RAID 2025](https://raid2025.github.io/).
+* [USENIX'26] I will serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26).
+* [RAID'25] I will serve on the program committee of [RAID 2025](https://raid2025.github.io/).
 * [SecureComm'25] Serving as the Sponsorship & Exhibits Chair for [SecureComm 2025](https://securecomm.eai-conferences.org/2025/).
 * [Nov 22, 2024] Our paper <strong>GhostShot</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We conducted a schematic analysis of the causality of the IEMI effect on the shapes, brightness, and colors of the injected images, and achieve fine-grained control of the injected pattern. ([PDF](), [Demo]())
 * [Aug 31, 2024] Our paper <strong>PhantomLiDAR</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We demonstrate how cross-modality signal injection attacks, i.e., IEMI, can manipulate LiDAR output. ([PDF](https://arxiv.org/pdf/2409.17907), [Demo](https://sites.google.com/view/phantomlidar))
