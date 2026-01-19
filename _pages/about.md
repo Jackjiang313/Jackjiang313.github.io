@@ -12,10 +12,12 @@ redirect_from:
 
 # Qinhong Jiang (蒋沁宏)
 
-A postdoctoral researcher in cyber-physical system (CPS) security and privacy.
+Researcher in cyber-physical system (CPS) security and privacy.
 
-I am currently a postdoctoral researcher at [IMCL lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html) in The Hong Kong Polytechnic University, advised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
-Prior that, I received my PhD degree from the [Zhejing University](https://www.zju.edu.cn/), where I'm honored to be advised by [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en) and [Prof. Chen Yan](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra) at the [Ubiquitous System Security Laboratory (USSLAB)](http://www.usslab.org/).
+
+I am currently a Research Assistant Professor at Department of Computing, The Hong Kong Polytechnic University.
+Prior that, I was a postdoctoral researcher at [IMCL lab](https://www4.comp.polyu.edu.hk/~labimcl/index.html), advised by Prof. [Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
+I received my PhD degree from the [Zhejing University](https://www.zju.edu.cn/), where I'm honored to be advised by [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en) and [Prof. Chen Yan](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra) at the [Ubiquitous System Security Laboratory (USSLAB)](http://www.usslab.org/).
 
 My research aims to protect the security and privacy of cyber-physical systems and spans the intersections of embedded systems, sensing, and mobile computing. Most of my research focuses on the security and privacy threats of cyber-physical systems caused by vulnerabilities against electromagnetic waves. I am also interested in side-channel attacks, robot system security, machine learning security, large language model security, and anything in security and privacy research that involves signals and physics.
 
@@ -30,7 +32,8 @@ Email: [qinhong.jiang@polyu.edu.hk](qinhong.jiang@polyu.edu.hk) or [qhjiang@zju.
 News
 ======
 <!-- * [Sep 15, 2025] Our paper <strong>Pha</strong> has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may eavesdrop on cameras and recover high-quality images in real time by analyzing camera's side-channel EM leakage. Demos will be put up soon! -->
-* [USENIX'26] I will serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26).
+* [SecureComm'26] I will serve on the program committee of [EAI SecureComm 2026](https://securecomm.eai-conferences.org/2026/).
+* [Dec, 2024] Our SoK paper “SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks” is accepted at USENIX’26. ([To appear]).
 * [RAID'25] I will serve on the program committee of [RAID 2025](https://raid2025.github.io/).
 * [SecureComm'25] Serving as the Sponsorship & Exhibits Chair for [SecureComm 2025](https://securecomm.eai-conferences.org/2025/).
 * [Nov 22, 2024] Our paper <strong>GhostShot</strong> has been accepted at [NDSS’25](https://www.ndss-symposium.org/ndss2024/). We conducted a schematic analysis of the causality of the IEMI effect on the shapes, brightness, and colors of the injected images, and achieve fine-grained control of the injected pattern. ([PDF](), [Demo]())
