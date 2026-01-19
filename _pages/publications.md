@@ -23,7 +23,7 @@ In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> (To appear)
 
 [J3] [EMI Backdoor: An Electromagnetic-Interference-based Backdoor Attack Against Computer Vision Systems]()<br/>
 Mengjie Sun, Peizhuo Lv, Shengzhi Zhang, Jianshuo Liu, Kai Chen, Hong Li, Zhi Li, <strong>Qinhong Jiang</strong>, Liming Sun.<br/>
-In Journal of Computer Security </em>(To appear)
+In Journal of Computer Security (To appear)
 
 [C6] [GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference]()<br/>
 Yanze Ren, <strong>Qinhong Jiang</strong>, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
