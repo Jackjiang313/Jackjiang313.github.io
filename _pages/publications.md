@@ -17,7 +17,7 @@ author_profile: true
 
 The \* sign stands for co-first authors (equal contribution).
 
-[C7] [SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks” is accepted]()<br/>
+[C7] [SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks]()<br/>
 <strong>Qinhong Jiang\*</strong>, Yan Long\*, Youqian Zhang\*, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu<br/>
 In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> (To appear) <br/>
 
@@ -34,7 +34,7 @@ Zizhi Jin, <strong>Qinhong Jiang</strong>, Xuancun Lu, Chen Yan, Xiaoyu Ji, Weny
 In <em><strong>NDSS’25</strong>: The Network and Distributed System Security Symposium, 2025</em> ([PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-997-paper.pdf), [Demo](https://sites.google.com/view/phantomlidar)) <br/>
 
 [C4] [Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection](https://www.arxiv.org/pdf/2407.16327)<br/>
-Youqian Zhang, Chunxi Yang, Eugene Y Fu, <strong>Qinhong Jiang</strong>, Chen Yan, Sze-Yiu Chau, Grace Ngai, Hong-Va Leong, Xiapu Luo, Wenyuan Xu)<br/>
+Youqian Zhang, Chunxi Yang, Eugene Y Fu, <strong>Qinhong Jiang</strong>, Chen Yan, Sze-Yiu Chau, Grace Ngai, Hong-Va Leong, Xiapu Luo, Wenyuan Xu<br/>
 In <em><strong>ICME'24</strong>: IEEE Conference on Multimedia Expo, 2024</em>  <br/>
 
 [C3] [EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras](https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/)<br/>
