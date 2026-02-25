@@ -17,6 +17,10 @@ author_profile: true
 
 The \* sign stands for co-first authors (equal contribution).
 
+[C8] [Physical Adversarial Examples through Camera Power Signal Injection]()<br/>
+Yanze Ren, Mingyuan Lv, <strong>Qinhong Jiang</strong>, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
+In <em><strong>CVPR'26</strong>: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026</em> (To appear) <br/>
+
 [C7] [SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks]()<br/>
 <strong>Qinhong Jiang\*</strong>, Yan Long\*, Youqian Zhang\*, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu<br/>
 In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> (To appear) <br/>
