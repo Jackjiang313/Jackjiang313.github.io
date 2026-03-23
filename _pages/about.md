@@ -32,6 +32,7 @@ Email: [qinhong.jiang@polyu.edu.hk](qinhong.jiang@polyu.edu.hk) or [qhjiang@zju.
 News
 ======
 <!-- * [Sep 15, 2025] Our paper <strong>Pha</strong> has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may eavesdrop on cameras and recover high-quality images in real time by analyzing camera's side-channel EM leakage. Demos will be put up soon! -->
+* [ICCCN'26] Invited to serve on the program committee of [ICCCN 2026](http://icccn.org).
 * [RAID'26] Invited to serve on the program committee of [RAID 2026](https://raid2026.org/).
 * [Feb, 2026] One paper has been accepted at CVPR'26.
 * [IEEE S&P'26] I will serve on the Artifact Evaluation Committee (AEC) of [IEEE S&P 2026](https://sp2026.ieee-security.org/).
