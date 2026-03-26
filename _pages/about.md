@@ -20,8 +20,11 @@ Prior that, I was a postdoctoral researcher at [IMCL lab](https://www4.comp.poly
 I received my PhD degree from the [Zhejing University](https://www.zju.edu.cn/), where I'm honored to be advised by [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en) and [Prof. Chen Yan](https://scholar.google.com/citations?user=qhaLpw8AAAAJ&hl=en&oi=sra) at the [Ubiquitous System Security Laboratory (USSLAB)](http://www.usslab.org/).
 
 My research aims to protect the security and privacy of cyber-physical systems and spans the intersections of embedded systems, sensing, and mobile computing. Most of my research focuses on the security and privacy threats of cyber-physical systems caused by vulnerabilities against electromagnetic waves. I am also interested in side-channel attacks, robot system security, machine learning security, large language model security, and anything in security and privacy research that involves signals and physics.
-
 I am open to academic collaborations and welcome discussions concerning potential research partnerships.
+
+<span style="color: red;">
+We are currently recruiting Research Assistants and undergraduate Student Helpers to join our team for interesting research projects. Highly self-motivated postgraduate and undergraduate students are especially welcome to apply by contacting me via email with your CV.
+</span>
 
 Email: [qinhong.jiang@polyu.edu.hk](qinhong.jiang@polyu.edu.hk) or [qhjiang@zju.edu.cn](qhjiang@zju.edu.cn).
 <!-- I’m also interested in side channel, covert channel, machine learning security, embedded system security, and anything in security research that involves signals and physics. I'm open to collaborate. -->
