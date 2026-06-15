@@ -15,23 +15,23 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The \* sign stands for co-first authors (equal contribution), and the \^ symbol indicates corresponding authors.
+The \* sign stands for co-first authors (equal contribution), and the ^ symbol indicates corresponding authors.
 
 [C9] [Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity]()<br/>
-Haoran Yan, Ziyu Shao, Shuhao Zhang, <strong>Qinhong Jiang\^</strong>, Yan Long\^.<br/>
+Haoran Yan, Ziyu Shao, Shuhao Zhang, <strong>Qinhong Jiang^</strong>, Yan Long^.<br/>
 In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> (To appear) <br/>
 
 [J4] [Cybersecurity vulnerabilities in IoT devices]()<br/>
 Chen Yan, Xiaoyu Ji, <strong>Qinhong Jiang</strong>, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.<br/>
-In  <em><strong>Nature</strong>: Nature Reviews Electrical Engineering, 2026
+In  <em><strong>Nature</strong>: Nature Reviews Electrical Engineering, 2026 </em> ([PDF](https://www.nature.com/articles/s44287-026-00296-5)) <br/>
 
 [C8] [Physical Adversarial Examples through Camera Power Signal Injection]()<br/>
 Yanze Ren, Mingyuan Lv, <strong>Qinhong Jiang</strong>, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
-In <em><strong>CVPR'26</strong>: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026</em> (To appear) <br/>
+In <em><strong>CVPR'26</strong>: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026</em> ([PDF](Ren_CamPI_Physical_Adversarial_Examples_through_Camera_Power_Signal_Injection_CVPR_2026_paper)) <br/>
 
 [C7] [SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks]()<br/>
 <strong>Qinhong Jiang\*</strong>, Yan Long\*, Youqian Zhang\*, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu<br/>
-In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> (To appear) <br/>
+In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> ([PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_jiang-qinhong.pdf), [Database Website](https://iemi-research-database.github.io/))<br/>
 
 [J3] [EMI Backdoor: An Electromagnetic-Interference-based Backdoor Attack Against Computer Vision Systems]()<br/>
 Mengjie Sun, Peizhuo Lv, Shengzhi Zhang, Jianshuo Liu, Kai Chen, Hong Li, Zhi Li, <strong>Qinhong Jiang</strong>, Liming Sun.<br/>

@@ -36,14 +36,16 @@ News
 ======
 <!-- * [Sep 15, 2025] Our paper <strong>Pha</strong> has been accepted at [NDSS’24](https://www.ndss-symposium.org/ndss2024/). We demonstrate how attackers may eavesdrop on cameras and recover high-quality images in real time by analyzing camera's side-channel EM leakage. Demos will be put up soon! -->
 * [USENIX Security'27] Invited to serve on the program committee of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27).
+* [June, 2026] One paper has been accepted at USENIX Security'26.
 * [Sensys'27] Invited to serve on the program committee of [Sensys 2026](https://sensys.acm.org/2027/index.html).
+* [May, 2026] One paper has been accepted at <strong>Nature</strong>: Nature Reviews Electrical Engineering.
 * [Inscrypt'26] Invited to serve on the program committee of [Inscrypt 2026](https://inscrypt2026.comp.polyu.edu.hk/).
 * [ICCCN'26] Invited to serve on the program committee of [ICCCN 2026](http://icccn.org).
 * [RAID'26] Invited to serve on the program committee of [RAID 2026](https://raid2026.org/).
 * [Feb, 2026] One paper has been accepted at CVPR'26.
 * [IEEE S&P'26] I will serve on the Artifact Evaluation Committee (AEC) of [IEEE S&P 2026](https://sp2026.ieee-security.org/).
 * [SecureComm'26] I will serve on the program committee of [EAI SecureComm 2026](https://securecomm.eai-conferences.org/2026/).
-* [Dec, 2025] Our SoK paper “SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks” is accepted at USENIX’26. ([To appear]).
+* [Dec, 2025] Our SoK paper “SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks” is accepted at USENIX’26. ([PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_jiang-qinhong.pdf)).
 * [RAID'25] I will serve on the program committee of [RAID 2025](https://raid2025.github.io/).
 * [SecureComm'25] Serving as the Sponsorship & Exhibits Chair for [SecureComm 2025](https://securecomm.eai-conferences.org/2025/).
 * [USENIX Security'26] Invited to serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26).
