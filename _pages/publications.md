@@ -15,7 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The \* sign stands for co-first authors (equal contribution).
+The \* sign stands for co-first authors (equal contribution), and the \^ symbol indicates corresponding authors.
+
+[C9] [Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity]()<br/>
+Haoran Yan, Ziyu Shao, Shuhao Zhang, <strong>Qinhong Jiang\^</strong>, Yan Long\^.<br/>
+In <em><strong>SEC'26</strong>: USENIX Security Symposium, 2026</em> (To appear) <br/>
+
+[J4] [Cybersecurity vulnerabilities in IoT devices]()<br/>
+Chen Yan, Xiaoyu Ji, <strong>Qinhong Jiang</strong>, Kai Wang, Xintong Wang, Wenjun Zhu, Shilin Xiao, Xinfeng Li, Wenyuan Xu.<br/>
+In  <em><strong>Nature</strong>: Nature Reviews Electrical Engineering, 2026
 
 [C8] [Physical Adversarial Examples through Camera Power Signal Injection]()<br/>
 Yanze Ren, Mingyuan Lv, <strong>Qinhong Jiang</strong>, Yan Jiang, Chen Yan, Xiaoyu Ji, Wenyuan Xu<br/>
